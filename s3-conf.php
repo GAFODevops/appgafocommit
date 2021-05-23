@@ -1,0 +1,1 @@
+<?php $accessKey='AKIATBIYW62SCFVQTMEI'; $secretKey='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'; $region='us-east-1'; $bucket='appgafo'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
